@@ -1,3 +1,0 @@
-mongita
-click 
-requests
